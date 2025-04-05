@@ -1,0 +1,6 @@
+PROGRAM Project7 IS
+
+BEGIN
+  WHILE true DO
+  END WHILE
+END Project7

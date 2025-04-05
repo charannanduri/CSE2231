@@ -1,0 +1,19 @@
+PROGRAM Project7 IS
+
+  INSTRUCTION walk IS
+     move
+     move
+     move
+     move
+  END one
+  
+  INSTRUCTION bite IS
+    infect
+  END two
+
+BEGIN
+  WHILE true DO
+    bite
+    walk
+  END WHILE
+END Project7
